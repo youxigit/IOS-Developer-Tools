@@ -32,7 +32,7 @@
 ###告诉你个秘密，一般人不告诉他  
 1.[Reveal破解补丁](http://pan.baidu.com/s/1skPpUUh)  
 2.安装原版并运行一次 －－ 假设安装到 /Applications/Reveal.app/  （如果已安装，跳过这一步）
-3. 打开/Applications/Reveal.app/Contents/MacOS/Reveal 改名为 Reveal_  
-4. 将附件复制进来（ChinaPYG.dylib和Reveal）  
-5. 重新启动Reveal  
+3.打开/Applications/Reveal.app/Contents/MacOS/Reveal 改名为 Reveal_  
+4.将附件复制进来（ChinaPYG.dylib和Reveal）  
+5.重新启动Reveal  
 ***
