@@ -1,7 +1,7 @@
 # IOS-Developer-Tools  
 ##一、 Mac版APP
 ###1.simpholders  
-快速查看模拟器中app的沙盒内部文件结构
+快速查看模拟器中app的沙盒内部文件结构  
 ![image](http://7xotrj.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-05-12%2000.50.16.png)
 
  [official website](https://simpholders.com)  
@@ -36,6 +36,5 @@
 * 打开/Applications/Reveal.app/Contents/MacOS/Reveal 改名为 Reveal_  
 * 将附件复制进来（ChinaPYG.dylib和Reveal）  
 * 重新启动Reveal  
-***
 ##二、Xcode插件    
 ##三、第三方源码  
