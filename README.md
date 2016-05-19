@@ -2,7 +2,6 @@
 ##一、 Mac版APP
 ###1.simpholders  
 快速查看模拟器中app的沙盒内部文件结构
-
 ![image](http://7xotrj.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-05-12%2000.50.16.png)
 
  [official website](https://simpholders.com)  
@@ -13,7 +12,7 @@
     
 ![image](http://7xotrj.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-05-12%2022.53.37.png)  
 [free down](http://pan.baidu.com/s/1slMNYPJ)  
-
+***
 ###3.Reveal“偷窥”别人的APP      
 * iphone越狱（没有越狱就不用往下看了）  
 * iphone越狱后，在Cydia中安装Reveal Loader  
