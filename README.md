@@ -36,4 +36,12 @@
 4.3打开/Applications/Reveal.app/Contents/MacOS/Reveal 改名为 Reveal_  
 4.4将附件复制进来（ChinaPYG.dylib和Reveal）  
 4.5重新启动Reveal  
+***  
+### 5.iFunBox  
+Mac与越狱iphone之间的文件传送神器：  
+1.Mac文件复制到越狱iphone  
+2.iphone中文件复制到Mac  
+3.删除iphone中的文件  
+4.查看和操作整个iphone文件系统  
+![iFunBox](http://7xotrj.com1.z0.glb.clouddn.com/iFunBox.png)
 ***
