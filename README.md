@@ -25,7 +25,7 @@
 附图：  
 ![第三步](http://7xotrj.com1.z0.glb.clouddn.com/reveal_1.PNG)  
 ![激动人心的时刻](http://7xotrj.com1.z0.glb.clouddn.com/reveal_2.png)
-####备注   
+#### 备注   
 如果没有抓到UI图层很有可能是一下几种原因：  
 1. iphone中的Reveal Loader插件和Mac中的Reveal版本不一致。
    解决方案：去官网下载最新版本的Mac版Reveal  
@@ -36,7 +36,7 @@
 * 安装原版并运行一次 －－ 假设安装到 /Applications/Reveal.app/  （如果已安装，跳过这一步）
 * 打开/Applications/Reveal.app/Contents/MacOS/Reveal 改名为 Reveal_  
 * 将附件复制进来（ChinaPYG.dylib和Reveal）  
-* 重新启动Reveal
+* 重新启动Reveal  
 ***
 ##二、Xcode插件    
 ##三、第三方源码  
