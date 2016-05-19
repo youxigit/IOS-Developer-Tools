@@ -29,12 +29,14 @@
 1. iphone中的Reveal Loader插件和Mac中的Reveal版本不一致。
    解决方案：去官网下载最新版本的Mac版Reveal  
 2. iphone和mac连同一个wifi，如果是公司的局域网，就很有可能被监控和拦截，不允许局域网下传输数据（我曾经就遇上了，折腾了好久，无意中发现的）    
-解决办法：用iphone开热点，mac连接iphone的热点，确保在同一局域网下。  
+解决办法：用iphone开热点，mac连接iphone的热点，确保在同一局域网下。 
+*** 
 ###告诉你个秘密，一般人不告诉他  
  [Reveal破解补丁](http://pan.baidu.com/s/1skPpUUh)  
 * 安装原版并运行一次 －－ 假设安装到 /Applications/Reveal.app/  （如果已安装，跳过这一步）
 * 打开/Applications/Reveal.app/Contents/MacOS/Reveal 改名为 Reveal_  
 * 将附件复制进来（ChinaPYG.dylib和Reveal）  
 * 重新启动Reveal  
+* ***
 ##二、Xcode插件    
 ##三、第三方源码  
